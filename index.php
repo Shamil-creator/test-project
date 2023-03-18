@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>Пример работы с формай</title>
 </head>
+<!-- Это комментарий -->
 <body>
 	<form action="/handler.php" method="POST">
 		<input type="text" name="title"><br><br>
